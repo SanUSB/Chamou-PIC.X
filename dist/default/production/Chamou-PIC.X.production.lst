@@ -1,7 +1,7 @@
 
 
 Microchip Technology PIC18 LITE Macro Assembler V1.31 build 56723 
-                                                                                               Fri Sep 08 19:26:29 2017
+                                                                                               Fri Sep 08 20:24:15 2017
 
 Microchip Technology Omniscient Code Generator (Lite mode) build 56723
      1                           	processor	18F4550
@@ -70,7 +70,7 @@ Microchip Technology Omniscient Code Generator (Lite mode) build 56723
     64  002DDE  0FDF               	dw	4063
     65                           
     66                           ;initializer for _ip_port
-    67  002DE0  0050               	dw	80
+    67  002DE0  1F90               	dw	8080
     68                           
     69                           ;initializer for _REG
     70  002DE2  0F                 	db	15
@@ -8198,7 +8198,7 @@ CODE                 0      0       0       0        0.0%
 
 
 Microchip Technology PIC18 Macro Assembler V1.31 build 56723 
-Symbol Table                                                                                   Fri Sep 08 19:26:29 2017
+Symbol Table                                                                                   Fri Sep 08 20:24:15 2017
 
                             _R 0035                              _c 0046                              _k 0047  
                             _s 004A               ??_clock_int_4MHz 0024                   ___awdiv@sign 001B  

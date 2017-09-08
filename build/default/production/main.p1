@@ -8119,9 +8119,9 @@ Version 3.2 HI-TECH Software Intermediate Code
 "21
 [v _ip_port `i ~T0 @X0 1 e ]
 [i _ip_port
--> 80 `i
+-> 8080 `i
 ]
-[; ;main.c: 21: int ip_port = 80;
+[; ;main.c: 21: int ip_port = 8080;
 "22
 [v _device_id `uc ~T0 @X0 -> 8 `i e ]
 [i _device_id

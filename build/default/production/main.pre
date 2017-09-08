@@ -7063,7 +7063,7 @@ int count;
 
 
 char ip_addr[64] = "sanusb.tk";
-int ip_port = 80;
+int ip_port = 8080;
 char device_id[8] = "codigo";
 
 char wifi_connected = 0, receive_enabled = 0;

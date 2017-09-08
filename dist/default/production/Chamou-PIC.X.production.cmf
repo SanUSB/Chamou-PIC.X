@@ -11,7 +11,7 @@
 # All addresses and the length are given in unqualified hexadecimal
 # in delta units.  Any other numeric values are decimal.
 %PSECTS
-$C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+$C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 end_init CODE 0 1018 1018 4 1
 reset_vec CODE 0 1000 1000 4 1
 idloc IDLOC 0 200000 200000 8 1
@@ -585,54 +585,54 @@ $dist/default/production\Chamou-PIC.X.production.obj
 "C:\Users\Sandro\Dropbox\Github\Chamou-PIC.X\SanUSB1X.h":490 2A56 text27 CODE
 "C:\Users\Sandro\Dropbox\Github\Chamou-PIC.X\SanUSB1X.h":491 2A92 text27 CODE
 "C:\Users\Sandro\Dropbox\Github\Chamou-PIC.X\SanUSB1X.h":492 2A9A text27 CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":921 2A9C cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":923 2A9C cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":926 2A9C cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1007 2A9C cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1008 2AA0 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1009 2AA2 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1010 2AA2 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1011 2AA4 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1012 2AA6 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1015 2AA8 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1016 2AAC cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1017 2AAE cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1018 2AAE cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1019 2AB0 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1020 2AB2 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1025 2AB4 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1026 2AB6 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1027 2AB8 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1028 2ABA cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1029 2ABC cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1030 2ABE cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1031 2AC0 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1032 2AC4 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1033 2AC8 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1034 2AC8 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1035 2ACA cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1036 2ACE cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1037 2AD0 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1038 2AD2 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1042 2AD4 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1043 2AD6 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1044 2AD8 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1045 2ADA cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1046 2ADC cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1047 2ADE cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1048 2AE0 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1049 2AE4 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1050 2AE8 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1051 2AE8 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1052 2AEA cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1053 2AEE cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1054 2AF0 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1055 2AF2 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1061 2AF4 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1063 2AF4 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1064 2AF6 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1065 2AF8 cinit CODE
-"C:\Users\Sandro\AppData\Local\Temp\s3go.":1066 2AFA cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":921 2A9C cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":923 2A9C cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":926 2A9C cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1007 2A9C cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1008 2AA0 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1009 2AA2 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1010 2AA2 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1011 2AA4 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1012 2AA6 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1015 2AA8 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1016 2AAC cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1017 2AAE cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1018 2AAE cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1019 2AB0 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1020 2AB2 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1025 2AB4 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1026 2AB6 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1027 2AB8 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1028 2ABA cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1029 2ABC cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1030 2ABE cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1031 2AC0 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1032 2AC4 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1033 2AC8 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1034 2AC8 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1035 2ACA cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1036 2ACE cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1037 2AD0 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1038 2AD2 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1042 2AD4 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1043 2AD6 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1044 2AD8 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1045 2ADA cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1046 2ADC cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1047 2ADE cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1048 2AE0 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1049 2AE4 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1050 2AE8 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1051 2AE8 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1052 2AEA cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1053 2AEE cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1054 2AF0 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1055 2AF2 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1061 2AF4 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1063 2AF4 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1064 2AF6 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1065 2AF8 cinit CODE
+"C:\Users\Sandro\AppData\Local\Temp\s75c.":1066 2AFA cinit CODE
 "C:\Program Files (x86)\Microchip\xc8\v1.31\sources\common\lwdiv.c":8 2AFE text29 CODE
 "C:\Program Files (x86)\Microchip\xc8\v1.31\sources\common\lwdiv.c":14 2AFE text29 CODE
 "C:\Program Files (x86)\Microchip\xc8\v1.31\sources\common\lwdiv.c":15 2B06 text29 CODE
@@ -773,9 +773,9 @@ tempo_ms@i 15 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.produ
 _main 107E 0 CODE 0 text0 dist/default/production\Chamou-PIC.X.production.obj
 _atoi 1C96 0 CODE 0 text33 dist/default/production\Chamou-PIC.X.production.obj
 _push 2954 0 CODE 0 text39 dist/default/production\Chamou-PIC.X.production.obj
-___sp 0 0 STACK 2 stack C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+___sp 0 0 STACK 2 stack C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 _recv A6 0 BANK0 1 bssBANK0 dist/default/production\Chamou-PIC.X.production.obj
-start 1018 0 CODE 0 init C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+start 1018 0 CODE 0 init C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 _main$2030 F0 0 BANK0 1 cstackBANK0 dist/default/production\Chamou-PIC.X.production.obj
 __size_of_nivel_alto 0 0 ABS 0 - dist/default/production\Chamou-PIC.X.production.obj
 tempo_ms@k 17 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.production.obj
@@ -917,7 +917,7 @@ __end_of_nivel_alto 19E2 0 CODE 0 text19 dist/default/production\Chamou-PIC.X.pr
 __Hdata 0 0 ABS 0 data dist/default/production\Chamou-PIC.X.production.obj
 __Ldata 0 0 ABS 0 data dist/default/production\Chamou-PIC.X.production.obj
 __size_of_init_buffer 0 0 ABS 0 - dist/default/production\Chamou-PIC.X.production.obj
-stackhi 7FF 0 ABS 0 - C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+stackhi 7FF 0 ABS 0 - C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 strchr@chr 17 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.production.obj
 __HcstackBANK0 0 0 ABS 0 cstackBANK0 dist/default/production\Chamou-PIC.X.production.obj
 __LcstackBANK0 0 0 ABS 0 cstackBANK0 dist/default/production\Chamou-PIC.X.production.obj
@@ -931,7 +931,7 @@ _buffer 60 0 BANK0 1 bssBANK0 dist/default/production\Chamou-PIC.X.production.ob
 __Htemp 0 0 COMRAM 1 temp dist/default/production\Chamou-PIC.X.production.obj
 pop@ret 19 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.production.obj
 __Ltemp 0 0 COMRAM 1 temp dist/default/production\Chamou-PIC.X.production.obj
-stacklo 140 0 ABS 0 - C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+stacklo 140 0 ABS 0 - C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 __end_of_habilita_interrupcao 2518 0 CODE 0 text26 dist/default/production\Chamou-PIC.X.production.obj
 __Hrbit 0 0 COMRAM 1 rbit dist/default/production\Chamou-PIC.X.production.obj
 __Lrbit 0 0 COMRAM 1 rbit dist/default/production\Chamou-PIC.X.production.obj
@@ -1129,8 +1129,8 @@ __pcinit 2A9C 0 CODE 0 cinit dist/default/production\Chamou-PIC.X.production.obj
 main@str F3 0 BANK0 1 cstackBANK0 dist/default/production\Chamou-PIC.X.production.obj
 ___awdiv 23C4 0 CODE 0 text36 dist/default/production\Chamou-PIC.X.production.obj
 ?_strspn 1B 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.production.obj
-__ramtop 800 0 RAM 0 ramtop C:\Users\Sandro\AppData\Local\Temp\s3go.obj
-__mediumconst 0 0 MEDIUMCONST 0 mediumconst C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+__ramtop 800 0 RAM 0 ramtop C:\Users\Sandro\AppData\Local\Temp\s75c.obj
+__mediumconst 0 0 MEDIUMCONST 0 mediumconst C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 ___lwdiv 2AFE 0 CODE 0 text29 dist/default/production\Chamou-PIC.X.production.obj
 __size_of_main 0 0 ABS 0 - dist/default/production\Chamou-PIC.X.production.obj
 _dpowers 101D 0 SMALLCONST 0 smallconst dist/default/production\Chamou-PIC.X.production.obj
@@ -1219,7 +1219,7 @@ habilita_interrupcao@tipo 15 0 COMRAM 1 cstackCOMRAM dist/default/production\Cha
 lcd_escreve@y 1B 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.production.obj
 __ptext15 2DEC 0 CODE 0 text15 dist/default/production\Chamou-PIC.X.production.obj
 __ptext34 2D64 0 CODE 0 text34 dist/default/production\Chamou-PIC.X.production.obj
-___inthi_sp 0 0 STACK 2 stack C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+___inthi_sp 0 0 STACK 2 stack C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 __Htext35 0 0 ABS 0 text35 dist/default/production\Chamou-PIC.X.production.obj
 __Htext16 0 0 ABS 0 text16 dist/default/production\Chamou-PIC.X.production.obj
 __Ltext35 0 0 ABS 0 text35 dist/default/production\Chamou-PIC.X.production.obj
@@ -1260,7 +1260,7 @@ __end_of_swputc 2DDE 0 CODE 0 text13 dist/default/production\Chamou-PIC.X.produc
 __ptext19 1852 0 CODE 0 text19 dist/default/production\Chamou-PIC.X.production.obj
 __ptext38 1B3C 0 CODE 0 text38 dist/default/production\Chamou-PIC.X.production.obj
 _nivel_alto 1852 0 CODE 0 text19 dist/default/production\Chamou-PIC.X.production.obj
-___intlo_sp 0 0 STACK 2 stack C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+___intlo_sp 0 0 STACK 2 stack C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 __Htext39 0 0 ABS 0 text39 dist/default/production\Chamou-PIC.X.production.obj
 __Ltext39 0 0 ABS 0 text39 dist/default/production\Chamou-PIC.X.production.obj
 __ptext29 2AFE 0 CODE 0 text29 dist/default/production\Chamou-PIC.X.production.obj
@@ -1278,7 +1278,7 @@ __HidataCOMRAM 0 0 ABS 0 idataCOMRAM dist/default/production\Chamou-PIC.X.produc
 __LidataCOMRAM 0 0 ABS 0 idataCOMRAM dist/default/production\Chamou-PIC.X.production.obj
 ___lwdiv@divisor 1E 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.production.obj
 __pidataCOMRAM 2DDE 0 CODE 0 idataCOMRAM dist/default/production\Chamou-PIC.X.production.obj
-__smallconst 101C 0 SMALLCONST 0 smallconst C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+__smallconst 101C 0 SMALLCONST 0 smallconst C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 __size_of___wmul 0 0 ABS 0 - dist/default/production\Chamou-PIC.X.production.obj
 memset@p1 15 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.production.obj
 __Hreset_vec 1004 0 CODE 0 reset_vec dist/default/production\Chamou-PIC.X.production.obj
@@ -1292,14 +1292,14 @@ __stringdata 1027 0 SMALLCONST 0 smallconst dist/default/production\Chamou-PIC.X
 strstr@s2 26 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.production.obj
 __size_of_atoi 0 0 ABS 0 - dist/default/production\Chamou-PIC.X.production.obj
 i2_inverte_saida 1B3C 0 CODE 0 text38 dist/default/production\Chamou-PIC.X.production.obj
-__accesstop 60 0 ABS 0 - C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+__accesstop 60 0 ABS 0 - C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 __Hintcode_body 0 0 ABS 0 intcode_body dist/default/production\Chamou-PIC.X.production.obj
 __Lintcode_body 0 0 ABS 0 intcode_body dist/default/production\Chamou-PIC.X.production.obj
 __pintcode_body 2306 0 CODE 0 intcode_body dist/default/production\Chamou-PIC.X.production.obj
-intlevel0 0 0 CODE 0 text C:\Users\Sandro\AppData\Local\Temp\s3go.obj
-intlevel1 0 0 CODE 0 text C:\Users\Sandro\AppData\Local\Temp\s3go.obj
-intlevel2 0 0 CODE 0 text C:\Users\Sandro\AppData\Local\Temp\s3go.obj
-intlevel3 0 0 CODE 0 text C:\Users\Sandro\AppData\Local\Temp\s3go.obj
+intlevel0 0 0 CODE 0 text C:\Users\Sandro\AppData\Local\Temp\s75c.obj
+intlevel1 0 0 CODE 0 text C:\Users\Sandro\AppData\Local\Temp\s75c.obj
+intlevel2 0 0 CODE 0 text C:\Users\Sandro\AppData\Local\Temp\s75c.obj
+intlevel3 0 0 CODE 0 text C:\Users\Sandro\AppData\Local\Temp\s75c.obj
 _isdigit$2341 16 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.production.obj
 inverte_saida@pino 15 0 COMRAM 1 cstackCOMRAM dist/default/production\Chamou-PIC.X.production.obj
 __HdataCOMRAM 0 0 ABS 0 dataCOMRAM dist/default/production\Chamou-PIC.X.production.obj
